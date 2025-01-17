@@ -1,4 +1,4 @@
-# Arquitetura de Computadores
+# Aprendendo Arquitetura de Computadores com Circuitos Digitais
 
 Este repositório contém arquivos e exercícios desenvolvidos durante as aulas de **Arquitetura de Computadores** na faculdade. Os projetos foram criados utilizando o software **Cedar Logic Simulator**, permitindo a simulação de circuitos digitais e situações práticas relacionadas ao funcionamento de sistemas computacionais.
 
